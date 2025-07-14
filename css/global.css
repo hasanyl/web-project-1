@@ -1,0 +1,55 @@
+/* Container */
+.container{
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* Colors */
+
+.bg-dark-blue{
+    background: #363b4e;
+}
+
+.bg-dark-purple{
+    background: #4f3b78;
+}
+
+.txt-white{
+    color: #fff;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.btn{
+    padding: 0.5em 4em;
+    border-radius: 20px;
+}
+
+.btn-primary{
+    background: #c4bbf0;
+}
+
+.btn-primary:hover{
+    border: 1px solid #c4bbf0;
+    background: none;
+}
+
+.form-group{
+    padding: 0.25rem 0;
+}
+
+.form-group label{
+    display: block;
+}
+
+.form-control{
+    width: 100%;
+    padding: 0.4rem;
+    font-size: 1rem;
+    resize: none;
+    border-radius: 5px;
+}
